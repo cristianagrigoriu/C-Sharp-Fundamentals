@@ -1,0 +1,6 @@
+c:\users\cristiana.grigoriu\documents\visual studio 2012\Projects\CreateStruct\CreateStruct\bin\Debug\CreateStruct.exe.config
+c:\users\cristiana.grigoriu\documents\visual studio 2012\Projects\CreateStruct\CreateStruct\bin\Debug\CreateStruct.exe
+c:\users\cristiana.grigoriu\documents\visual studio 2012\Projects\CreateStruct\CreateStruct\bin\Debug\CreateStruct.pdb
+c:\users\cristiana.grigoriu\documents\visual studio 2012\Projects\CreateStruct\CreateStruct\obj\Debug\CreateStruct.csprojResolveAssemblyReference.cache
+c:\users\cristiana.grigoriu\documents\visual studio 2012\Projects\CreateStruct\CreateStruct\obj\Debug\CreateStruct.exe
+c:\users\cristiana.grigoriu\documents\visual studio 2012\Projects\CreateStruct\CreateStruct\obj\Debug\CreateStruct.pdb

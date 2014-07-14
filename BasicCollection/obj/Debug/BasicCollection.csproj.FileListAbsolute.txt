@@ -1,0 +1,5 @@
+C:\Users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\BasicCollection\bin\Debug\BasicCollection.exe.config
+C:\Users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\BasicCollection\bin\Debug\BasicCollection.exe
+C:\Users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\BasicCollection\bin\Debug\BasicCollection.pdb
+C:\Users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\BasicCollection\obj\Debug\BasicCollection.exe
+C:\Users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\BasicCollection\obj\Debug\BasicCollection.pdb

@@ -1,0 +1,9 @@
+c:\users\cristiana.grigoriu\documents\visual studio 2012\Projects\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe.config
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csprojResolveAssemblyReference.cache
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Form1.resources
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.Properties.Resources.resources
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.csproj.GenerateResource.Cache
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\TimerEvents\TimerEvents\bin\Debug\TimerEvents.exe
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\TimerEvents\TimerEvents\bin\Debug\TimerEvents.pdb
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.exe
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\TimerEvents\TimerEvents\obj\Debug\TimerEvents.pdb

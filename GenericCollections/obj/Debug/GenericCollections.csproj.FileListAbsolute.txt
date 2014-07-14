@@ -1,0 +1,6 @@
+C:\Users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\GenericCollections\bin\Debug\GenericCollections.exe.config
+C:\Users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\GenericCollections\bin\Debug\GenericCollections.exe
+C:\Users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\GenericCollections\bin\Debug\GenericCollections.pdb
+C:\Users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\GenericCollections\obj\Debug\GenericCollections.exe
+C:\Users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\GenericCollections\obj\Debug\GenericCollections.pdb
+C:\Users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\GenericCollections\obj\Debug\GenericCollections.csprojResolveAssemblyReference.cache

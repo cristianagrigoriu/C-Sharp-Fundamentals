@@ -1,0 +1,6 @@
+c:\users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\Calculator\bin\Debug\Calculator.exe.config
+c:\users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\Calculator\bin\Debug\Calculator.exe
+c:\users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\Calculator\bin\Debug\Calculator.pdb
+c:\users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\Calculator\obj\Debug\Calculator.exe
+c:\users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\Calculator\obj\Debug\Calculator.pdb
+c:\users\cristiana.grigoriu\documents\visual studio 2012\Projects\ListValueTypes\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
