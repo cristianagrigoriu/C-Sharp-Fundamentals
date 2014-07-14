@@ -1,0 +1,6 @@
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\ListValueTypes\AssemblyDemo\bin\Debug\AssemblyDemo.exe.config
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\ListValueTypes\AssemblyDemo\obj\Debug\AssemblyDemo.csprojResolveAssemblyReference.cache
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\ListValueTypes\AssemblyDemo\bin\Debug\AssemblyDemo.exe
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\ListValueTypes\AssemblyDemo\bin\Debug\AssemblyDemo.pdb
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\ListValueTypes\AssemblyDemo\obj\Debug\AssemblyDemo.exe
+C:\Users\cristiana.grigoriu\Documents\Visual Studio 2012\Projects\ListValueTypes\AssemblyDemo\obj\Debug\AssemblyDemo.pdb
