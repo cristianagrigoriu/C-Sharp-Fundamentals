@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("AssemblyAttrDemo")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("This is a demo of the AssemblyDescription attribute")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("AssemblyAttrDemo")]

@@ -9,6 +9,7 @@ namespace PersonClass
     public delegate void ManagerOnHolidayEvent(int NumberOfDays, Employee SubstituteManager);
     public delegate void ManagerComesBackFromHolidayEvent(Employee SubstituteManager);
 
+    //[IdProperty("Cris")]
     public class Employee : Person
     {
         public Employee Manager { get; set; }
